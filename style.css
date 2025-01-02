@@ -1,0 +1,40 @@
+@import url("https://use.typekit.net/tui1pue.css");
+
+body {
+  background: #2d324f;
+}
+
+h1 {
+  font-family: "sofia-pro-soft", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  margin: 1.5rem auto 1rem;
+}
+
+p {
+  font-family: "sofia-pro-soft", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 1.5rem;
+}
+
+.contents {
+  margin-top: 4rem;
+  padding: 3rem;
+  border-radius: 3rem;
+  background-color: #f4eed4;
+}
+
+#animation_container {
+  width: 100% !important;
+  height: auto !important;
+}
+
+#canvas {
+  width: 100% !important;
+  height: auto !important;
+}
+
+#dom_overlay_container {
+  display: none;
+}
